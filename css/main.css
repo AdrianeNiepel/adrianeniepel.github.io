@@ -46,6 +46,7 @@ footer a {
 
 .attentionText {
   color: #ff6600;
+  font-weight: bold;
 }
 
 @media screen and (max-width: 420px) {
