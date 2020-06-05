@@ -44,6 +44,10 @@ footer a {
   color: #ff6600;
 }
 
+.attentionText {
+  color: #ff6600;
+}
+
 @media screen and (max-width: 420px) {
   header,
   main,
