@@ -49,7 +49,17 @@ footer a {
   font-weight: bold;
 }
 
-@media screen and (max-width: 420px) {
+.book_image {
+  float: left;
+  width: 200px;
+}
+
+.book_details {
+  float: left;
+  width: 400px;
+}
+
+@media screen and (max-width: 600px) {
   header,
   main,
   footer {
@@ -82,6 +92,13 @@ footer a {
   }
   img#contact {
     margin-top: -40px;
+  }
+
+  .book_image, .book_details {
+    width: 100%;
+  }
+  .book_details p {
+    padding: 0 20px;
   }
 }
 
@@ -292,10 +309,10 @@ textarea {
     box-shadow: none !important;
     text-shadow: none !important;
   }
-  
+
   a {
-  color: #88aaff;
-}                
+    color: #88aaff;
+  }
   a:visited {
     text-decoration: underline;
   }
