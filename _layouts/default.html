@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <title>{{ page.title }}</title>
-  <meta name="description" content="">
+  <meta name="description" content="{{ page.description }}">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <link rel="manifest" href="site.webmanifest">
@@ -23,7 +23,7 @@
     Wenn Sie diese Website weiterhin besuchen, akzeptieren Sie die Verwendung von Cookies durch Google Analytics zu
     statistischen Zwecken.
     <a href="/datenschutz" id="cookies-eu-more">Weitere Details</a>
-    <button id="cookies-eu-reject">Ablehnen</button>
+    <!--<button id="cookies-eu-reject">Ablehnen</button> -->
     <button id="cookies-eu-accept">Akzeptieren</button>
   </div>
   <!--[if IE]>
@@ -32,7 +32,7 @@
 
   <header>
     <a href="/">
-      <img src="/img/Titel_AdrianeNiepel_klein.png" />
+      <img src="/img/Titel_AdrianeNiepel_klein.png" alt="Adriane Niepel" />
     </a>
   </header>
 
@@ -41,7 +41,7 @@
   </main>
 
   <footer>
-    <a href="/impressum">Impressum</a> | <a href="/datenschutz">Datenschutz</a>
+    <a href="/impressum" alt="Impressum">Impressum</a> | <a href="/datenschutz" alt="Datenschutz">Datenschutz</a>
   </footer>
 
   <script src="/js/vendor/modernizr-3.8.0.min.js"></script>
