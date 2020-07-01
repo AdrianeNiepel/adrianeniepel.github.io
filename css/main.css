@@ -49,6 +49,10 @@ footer a {
   font-weight: bold;
 }
 
+.hintText {
+  font-size: smaller;
+}
+
 .book_image {
   float: left;
   width: 200px;
