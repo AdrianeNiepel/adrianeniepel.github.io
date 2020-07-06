@@ -53,6 +53,12 @@ footer a {
   font-size: smaller;
 }
 
+.blockText{
+hyphens: auto; 
+        text-align: justify;
+}
+
+
 .book_image {
   float: left;
   width: 200px;
