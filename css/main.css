@@ -12,20 +12,20 @@
    ========================================================================== */
 
 header {
-  width: 600px;
+  width: 800px;
   margin: 0 auto;
   padding: 20px 0;
   text-align: center;
 }
 
 main {
-  width: 600px;
+  width: 800px;
   margin: 0 auto;
   text-align: center;
 }
 
 .column {
-  width: 300px;
+  width: 400px;
   float: left;
 }
 .column img {
@@ -34,7 +34,7 @@ main {
 
 footer {
   clear: both;
-  width: 600px;
+  width: 800px;
   margin: 0 auto;
   text-align: center;
   padding: 20px 0;
@@ -61,12 +61,12 @@ hyphens: auto;
 
 .book_image {
   float: left;
-  width: 200px;
+  width: 300px;
 }
 
 .book_details {
   float: left;
-  width: 400px;
+  width: 500px;
 }
 .backgroundorange {
 background-color: #ff6600;
