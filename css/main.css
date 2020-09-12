@@ -15,13 +15,13 @@ header {
   width: 800px;
   margin: 0 auto;
   padding: 20px 0;
-  text-align: center;
+  text-align: left;
 }
 
 main {
   width: 800px;
   margin: 0 auto;
-  text-align: center;
+  text-align: left;
 }
 
 .column {
