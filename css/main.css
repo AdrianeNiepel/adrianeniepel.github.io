@@ -58,6 +58,9 @@ hyphens: auto;
         text-align: justify;
 }
 
+.imgLink{
+text-decoration: none;
+}
 
 .book_image {
   float: left;
