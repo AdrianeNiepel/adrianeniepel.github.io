@@ -57,6 +57,12 @@ footer a {
 hyphens: auto; 
         text-align: justify;
         margin:20px;
+        padding:20px;
+}
+
+.eckenUmTextRechtsUnten{
+        text-align: right;
+     
 }
 
 .imgLink{
