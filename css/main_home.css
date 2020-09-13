@@ -58,6 +58,22 @@ hyphens: auto;
         text-align: justify;
 }
 
+.eckenUmTextRechtsUnten{
+        text-align: right;
+        width: 800px;
+     
+}
+.eckenUmTextRechtsOben{
+        text-align: left;
+        width: 800px;
+     
+}
+.homeBox{
+
+        margin:20px;
+
+}
+
 .imgLink{
 text-decoration: none;
 }

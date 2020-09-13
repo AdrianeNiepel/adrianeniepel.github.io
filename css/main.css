@@ -61,23 +61,10 @@ hyphens: auto;
         padding:10px;
 }
 
-.homeBox{
-
-        margin:20px;
-
-}
 
 
-.eckenUmTextRechtsUnten{
-        text-align: right;
-        width: 800px;
-     
-}
-.eckenUmTextRechtsOben{
-        text-align: left;
-        width: 800px;
-     
-}
+
+
 
 .imgLink{
 text-decoration: none;
