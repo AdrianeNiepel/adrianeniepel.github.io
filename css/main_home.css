@@ -60,14 +60,14 @@ hyphens: auto;
 
 .eckenUmTextRechtsUnten{
         text-align: right;
-        width: 700px;
+        width: auto;
      
 }
 
      
 }
 .homeBox{
-        margin:10px;
+        padding:10px;
 }
 
 .imgLink{
