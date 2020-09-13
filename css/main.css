@@ -14,7 +14,7 @@
 header {
   width: 800px;
   margin: 0 auto;
-  padding: 10px 0;
+  padding: 5px 0;
   text-align: left;
 }
 
@@ -22,6 +22,7 @@ main {
   width: 800px;
   margin: 10px auto;
   text-align: left;
+  padding: 20px;
 }
 
 .column {
