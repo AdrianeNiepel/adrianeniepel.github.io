@@ -60,22 +60,19 @@ hyphens: auto;
 
 .eckenUmTextRechtsUnten{
         text-align: right;
-        width: 800px;
+        width: 700px;
      
 }
-.eckenUmTextRechtsOben{
-        text-align: left;
-        width: 800px;
+
      
 }
 .homeBox{
-
-        margin:20px;
-
+        margin:10px;
 }
 
 .imgLink{
 text-decoration: none;
+margin-left:10px;
 }
 
 .imgHomeBtn{
