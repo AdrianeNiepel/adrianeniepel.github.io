@@ -64,15 +64,18 @@ hyphens: auto;
 
 .eckenUmTextRechtsUnten{
         text-align: right;
+        width: 800px;
      
 }
 .eckenUmTextRechtsOben{
         text-align: left;
+        width: 800px;
      
 }
 
 .imgLink{
 text-decoration: none;
+margin-left:10px;
 }
 
 .imgHomeBtn{
