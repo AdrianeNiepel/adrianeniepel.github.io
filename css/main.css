@@ -20,7 +20,7 @@ header {
 
 main {
   width: 800px;
-  margin: 10px 10px;
+  margin: 10px auto;
   text-align: left;
 }
 
