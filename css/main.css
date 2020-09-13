@@ -79,6 +79,7 @@ text-decoration: none;
 
 .book_details {
   float: left;
+  padding: 0 20px;
 }
 .backgroundorange {
 background-color: #ff6600;
@@ -120,12 +121,10 @@ font-color: white;
     margin-top: -40px;
   }
 
-  .book_image, .book_details {
-    width: 100%;
-  }
-  .book_details p {
-    padding: 0 20px;
-  }
+  
+  .clearboth {
+  clear: both;
+}
 }
 
 /* ==========================================================================
