@@ -20,7 +20,7 @@ header {
 
 main {
   width: 800px;
-  margin: 10px auto;
+  margin: 10px 10px;
   text-align: left;
 }
 
@@ -74,12 +74,10 @@ text-decoration: none;
 
 .book_image {
   float: left;
-  width: 300px;
 }
 
 .book_details {
   float: left;
-  width: 500px;
 }
 .backgroundorange {
 background-color: #ff6600;
