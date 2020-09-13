@@ -87,13 +87,13 @@ text-decoration: none;
 
 .book_image {
   float: left;
-  width:auto:
+  width:500px:
 }
 
 .book_details {
 float:left;
   padding: 0 20px;
-  width:200px:
+  width:300px:
 }
 .backgroundorange {
 background-color: #ff6600;
