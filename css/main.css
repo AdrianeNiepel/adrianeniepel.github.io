@@ -66,6 +66,10 @@ hyphens: auto;
         text-align: right;
      
 }
+.eckenUmTextRechtsOben{
+        text-align: left;
+     
+}
 
 .imgLink{
 text-decoration: none;
