@@ -73,20 +73,12 @@ text-decoration: none;
 margin-left:10px;
 }
 
-.imgHomeBtn{
-margin-right:200px;
-text-decoration: none;
-}
 
-.book_image {
-  float: left;
-  width: 300px;
-}
+.imgHomeNav{
+ height:100px;
+ width:auto;
+ }
 
-.book_details {
-  float: left;
-  width: 500px;
-}
 .backgroundorange {
 background-color: #ff6600;
 font-color: white;
