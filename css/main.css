@@ -84,11 +84,11 @@ text-decoration: none;
 .book_details {
 float:left;
 margin-left: 20px;
-width: 400px;
+width: 500px;
 }
 
 .LogoTitel_BookDetails{
-   width: 200px;
+   width: 100px;
    height:auto;
 }
 
