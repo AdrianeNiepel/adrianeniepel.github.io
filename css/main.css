@@ -62,11 +62,7 @@ hyphens: auto;
 }
 
 
-
-
-
-
-.imgLink{
+ .imgLink{
 text-decoration: none;
 margin-left:10px;
 }
@@ -88,6 +84,7 @@ text-decoration: none;
 .book_details {
 float:left;
 }
+
 .backgroundorange {
 background-color: #ff6600;
 font-color: white;
@@ -114,21 +111,7 @@ font-color: white;
     position: relative;
   }
 
-  img#book {
-    margin-top: -20px;
-  }
-  img#shop {
-    margin-top: 20px;
-  }
-  img#about {
-    margin-top: 40px;
-    z-index: 99;
-  }
-  img#contact {
-    margin-top: -40px;
-  }
 
-  
   .clearboth {
   clear: both;
 }
