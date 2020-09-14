@@ -88,6 +88,19 @@ margin-left: 20px;
 width: 400px;
 }
 
+
+.ueber_image {
+  float: left;
+  width: 300px;
+}
+
+.uber_details {
+float:left;
+margin-left: 20px;
+width: 400px;
+}
+
+
 .LogoTitel_BookDetails{
    width: 300px;
    height:auto;
