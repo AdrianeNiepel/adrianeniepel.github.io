@@ -96,10 +96,20 @@ width: 400px;
 
 .ueber_details {
 float:left;
-padding-left: 10px;
-width: 600px;
+padding-left: 30px;
+width: 550px;
 }
-
+.ueber_imageSketchnote
+{
+     float: left;
+  width: 300px;
+}
+.ueber_detailsSketchnote
+{
+float:left;
+padding-left: 30px;
+width: 300px;
+}
 
 .LogoTitel_BookDetails{
    width: 300px;
