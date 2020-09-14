@@ -84,7 +84,12 @@ text-decoration: none;
 .book_details {
 float:left;
 margin-left: 20px;
-width: 300px;
+width: 400px;
+}
+
+.LogoTitel_BookDetails{
+   width: 200px;
+   height:auto;
 }
 
 .backgroundorange {
