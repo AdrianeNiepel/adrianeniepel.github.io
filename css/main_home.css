@@ -59,6 +59,11 @@ hyphens: auto;
         margin-left: 20px;
 }
 
+.eckenUmTextRechtsUntenDIV{
+        text-align: right; 
+    
+}
+
 .eckenUmTextRechtsUnten{
         text-align: right; 
         height:20px;
