@@ -12,15 +12,15 @@
    ========================================================================== */
 
 header {
-  width: 800px;
-  margin: 0 auto;
+  width: auto;
+  /*margin: 0 auto; */
   padding: 5px 0;
   text-align: left;
 }
 
 main {
-  width: 800px;
-  margin: 10px auto;
+  width: 900px;
+ /*margin: 10px auto;   */
   text-align: left;
   padding: 20px;
 }
@@ -35,7 +35,7 @@ main {
 
 footer {
   clear: both;
-  width: 800px;
+  width: auto;
   margin: 0 auto;
   text-align: center;
   padding: 20px 0;
