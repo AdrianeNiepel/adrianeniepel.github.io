@@ -71,11 +71,11 @@ text-align:left;
 
  .imgLink{
 text-decoration: none;
-margin-left:10px;
+margin-left:2%;
 }
 
 .imgHomeBtn{
-margin-right:10%;
+margin-right:2%;
 text-decoration: none;
 }
 
@@ -86,13 +86,10 @@ text-decoration: none;
 
 .book_image {
   float: left;
-  width: 300px;
 }
 
 .book_details {
 float:left;
-margin-left: 60px;
-width: 400px;
 }
 
 
