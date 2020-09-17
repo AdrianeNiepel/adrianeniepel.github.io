@@ -13,16 +13,20 @@
 
 header {
   width: auto;
-  /*margin: 0 auto; */
-  padding: 5px 0;
+  /*margin: 0 auto; 
+  padding: 5px 0;   */
   text-align: center;
+  
 }
 
 main {
   width: auto;
- /*margin: 0px auto;   */
+ /*margin: 0px auto;   
   text-align: center;
-  margin: 10px;
+  margin: 10px;      */
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .column {
