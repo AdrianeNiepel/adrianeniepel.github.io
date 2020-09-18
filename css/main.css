@@ -87,19 +87,19 @@ text-align:left
 
 .mainFlexbox{
   display: flex;
-  align-items: left;
-  justify-content: center;
+  flex-flow: column wrap;
+  align-items: flex-start;
+  justify-content: space-around;
 }
 
 .book_image {
  /* float: left;  */
-  width: 300px;
+  flex-grow:1;
 }
 
 .book_details {
 /*float:left;  */
-margin-left: 60px;
-width: 400px;
+flex-grow:2;
 }
 
 
