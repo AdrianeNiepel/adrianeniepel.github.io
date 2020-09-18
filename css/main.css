@@ -15,7 +15,9 @@ header {
   width: auto;
   /*margin: 0 auto; 
   padding: 5px 0;   */
-  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   
 }
 
@@ -29,13 +31,6 @@ main {
   justify-content: center;
 }
 
-.column {
-  width: 400px;
-  float: left;
-}
-.column img {
-  float: left;
-}
 
 footer {
   clear: both;
@@ -90,13 +85,18 @@ text-align:left
     text-align:center;
 }
 
+.mainFlexbox{
+  display: flex;
+  align-items: left;
+}
+
 .book_image {
-  float: left;
+ /* float: left;  */
   width: 300px;
 }
 
 .book_details {
-float:left;
+/*float:left;  */
 margin-left: 60px;
 width: 400px;
 }
