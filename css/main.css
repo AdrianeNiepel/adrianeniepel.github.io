@@ -63,6 +63,7 @@ hyphens: auto;
 
 .contactText{
 text-align:left;
+margin: 20px;
 }
 
  .imgLink{
@@ -77,6 +78,7 @@ text-decoration: none;
 }
 
 .headerImages{
+margin-top:20px;
 width: 400px;
 text-align:left
 }
