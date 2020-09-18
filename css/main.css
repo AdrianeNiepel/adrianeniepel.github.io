@@ -85,6 +85,11 @@ text-align:left
     text-align:center;
 }
 
+.hrTitel{
+    margin-top:30px;
+    text-align:left;
+}
+
 .mainFlexboxColumn{
   display: flex;
   flex-flow: column wrap;
