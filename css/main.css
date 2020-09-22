@@ -116,6 +116,8 @@ width: 400px;
 .mainFlexboxRow{
 display: flex;
   flex-flow: row wrap;
+  align-items: flex-start;
+  justify-content: space-around;
 }
 
 .book_image {
