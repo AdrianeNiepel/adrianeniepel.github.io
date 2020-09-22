@@ -124,9 +124,10 @@ display: flex;
 }
 
 .book_details {
-/*float:left;  */
+/*float:left;  
 width: 450px;
-padding-left: 10px;
+padding-left: 10px; */
+  flex-grow:2;
 }
 
 
