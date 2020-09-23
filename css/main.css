@@ -123,12 +123,13 @@ display: flex;
 .book_image {
  /* float: left;  */
   flex-grow:1;
+  padding-left: 20px; 
 }
 
 .book_details {
 /*float:left;  
 width: 450px;  */
-padding-left: 10px; 
+padding-left: 20px; 
   flex-grow:2;
 }
 
