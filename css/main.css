@@ -128,7 +128,7 @@ display: flex;
 
 .book_details {
 /*float:left;  */
-width: 450px;  
+width: 480px;  
 padding-left: 20px; 
   flex-grow:1;
 }
