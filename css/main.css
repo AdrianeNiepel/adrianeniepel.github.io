@@ -132,8 +132,8 @@ display: flex;
 padding-left: 20px;    
 width: 400px;  */
   flex-grow:1;
-  flex-basis: 400px;
-  padding-left: 20px; 
+  flex-basis: 350px;
+  padding-left: 40px; 
 }
 
 
