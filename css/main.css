@@ -111,6 +111,7 @@ width: 400px;
   flex-flow: column wrap;
   align-items: flex-start;
   justify-content: space-around;
+  margin-left:20px;
 }
 
 .mainFlexboxRow{
