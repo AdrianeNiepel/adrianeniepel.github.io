@@ -134,8 +134,8 @@ padding-left: 20px;
 }
 
 .book_detailsBig {
-/*float:left;  
-width: 800px;   */
+/*float:left;   */
+width: 800px;  
 padding-left: 20px; 
   flex-grow:2;
 }
