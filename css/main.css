@@ -128,9 +128,16 @@ display: flex;
 
 .book_details {
 /*float:left;   */
-width: 400px;  
+width: 450px;  
 padding-left: 20px; 
   flex-grow:1;
+}
+
+.book_detailsBig {
+/*float:left;   */
+width: 800px;  
+padding-left: 20px; 
+  flex-grow:2;
 }
 
 
