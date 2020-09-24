@@ -136,6 +136,16 @@ width: 400px;  */
   padding-left: 40px; 
 }
 
+.book_detailsBig {
+/*float:left;   
+
+padding-left: 20px;    
+width: 400px;  */
+  flex-grow:1;
+  flex-basis: 500px;
+  padding-left: 40px; 
+}
+
 
 .ueber_image {
   float: left;
