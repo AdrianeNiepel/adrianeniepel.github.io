@@ -129,9 +129,10 @@ display: flex;
 .book_details {
 /*float:left;   
 
-padding-left: 20px;   */ 
-width: 400px; 
+padding-left: 20px;    
+width: 400px;  */
   flex-grow:1;
+  flex-basis: 400px;
 }
 
 
