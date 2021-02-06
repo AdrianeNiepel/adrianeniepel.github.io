@@ -1,0 +1,17 @@
+<div *ngIf= "trainingOnGoing">
+    <div><img src="/assets/letters/{{currentLetter}}.png"/></div>
+    <div>Du trainierst 
+        <ng-container *ngFor="let char of baseText.split(''); let i = index">
+            <span>{{char}}</span>
+        </ng-container>
+    </div>
+    <div>{{instrunctionText}}</div>
+    <div>{{timeLeft}}</div>
+    <button mat-button color="primary" (click)="pause()">Pause</button>
+</div>
+
+<div *ngIf= "!trainingOnGoing"> 
+<div>Geschafft!</div>
+<button mat-button color="primary" [routerLink]="'/'"> Zurück/Nochmal</button>
+</div>
+
