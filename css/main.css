@@ -100,6 +100,11 @@ width: 400px;
     text-align:center;
 }
 
+.imgShopNav{
+ height:150px;
+ width:auto;
+ }
+
 .hrTitel{
     margin-top:30px;
     width:100%;
