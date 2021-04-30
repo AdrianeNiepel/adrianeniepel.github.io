@@ -104,7 +104,12 @@ width: 400px;
  height:200px;
  width:auto;
  }
-
+ .imgShopNav_small{
+ height:100px;
+ width:auto;
+ }
+ 
+ 
 .hrTitel{
     margin-top:30px;
     width:100%;
