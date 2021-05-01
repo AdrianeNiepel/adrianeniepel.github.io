@@ -41,6 +41,14 @@ footer {
   padding: 20px 0;
 }
 
+.footerShop {
+  clear: both;
+  width: auto;
+  margin: 0 auto;
+  text-align: center;
+  padding: 20px 0;
+}
+
 footer a {
   color: #ff6600;
 }
