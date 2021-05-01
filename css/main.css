@@ -48,7 +48,19 @@ footer {
   text-align: center;
   padding: 20px 0;
   color: #ff6600;
+  text-decoration: none;
 }
+
+.footerShopLeft {
+  clear: both;
+  width: auto;
+  margin: 0 auto;
+  text-align: left;
+  padding: 20px 0;
+  color: #ff6600;
+  text-decoration: none;
+}
+
 
 footer a {
   color: #ff6600;
