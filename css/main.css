@@ -41,6 +41,16 @@ footer {
   padding: 20px 0;
 }
 
+.titelShop{
+   text-align: center;
+  padding: 20px 0;
+  color: #ff6600;
+}
+
+.WarenkorbRight{
+    text-align: right;
+}
+
 .footerShop {
   clear: both;
   width: auto;
